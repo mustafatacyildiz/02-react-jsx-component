@@ -1,0 +1,9 @@
+.msg-img{
+    width : 60%;
+    display: block;
+    margin: 1rem auto;
+}
+.msg-h1{
+    text-align: center;
+    color: red;
+}
